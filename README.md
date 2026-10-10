@@ -32,3 +32,76 @@ From detecting safety violations on live construction feeds with **YOLOv8**, to 
   "fun_fact": "I debug neural nets faster than I debug my sleep schedule",
   "open_to": ["ML Engineer", "AI Engineer", "RAG Engineer", "AIML Engineer"]
 }
+🛠️ The Arsenal
+Core Languages
+
+
+AI / Machine Learning / Computer Vision
+
+
+GenAI & RAG
+
+
+Tools & Cloud
+
+
+🧭 Experience & Certifications
+🔭 Deep Learning Intern — Uptoskills
+
+Engineered a real-time construction site safety monitoring system using YOLOv8 and PyTorch, detecting PPE violations and hazard zones from live video feeds to reduce on-site risk before it becomes an incident.
+
+📜 AWS Certified — Foundations of Prompt Engineering
+
+Built a rigorous foundation in prompt architecture, LLM behavior tuning, and responsible GenAI system design.
+
+📊 Kaggle Certified — Pandas
+
+Mastered the data wrangling, cleaning, and transformation workflows that every production ML pipeline quietly depends on.
+
+🏗️ Featured Builds
+🔍 Argus
+
+
+AI security scanner powered by orchestrated agents. A multi-agent system that autonomously scans, analyzes, and reports security vulnerabilities — no human babysitting required.
+
+
+Python Multi-Agent AI LangChain FastAPI
+
+
+🔗 View Repository
+
+📰 Telugu News Classifier
+
+
+NLP that reads Telugu better than most humans skim headlines. A deep learning pipeline that classifies Telugu-language news articles into categories, deployed live and fully interactive.
+
+
+Python NLP Scikit-learn Streamlit
+
+
+🔗 Repository · 🚀 Live Demo
+
+📉 Customer Churn Prediction
+
+
+An end-to-end ML pipeline that predicts who's about to leave — before they do. Feature engineering, model tuning, and a live dashboard, built to turn raw churn data into retention action.
+
+
+Python XGBoost Pandas Streamlit
+
+
+🔗 Repository · 🚀 Live Demo
+
+🚧 Next Build — Cooking...
+
+
+Something new is always brewing in a notebook somewhere. Status: In Progress
+
+
+??? ???
+
+📊 GitHub Analytics
+🤝 Let's Build Something Intelligent
+Open to Machine Learning, AI, RAG, and AIML Engineer roles. If you're hiring — or just want to talk about agents, embeddings, or why XGBoost still beats your fancy transformer on tabular data — my inbox is open.
+
+⭐️ Thanks for scrolling this far. That means you actually read it — I respect that.
