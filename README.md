@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Manoj%20Mulammagari&fontSize=55&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20RAG%20%26%20GenAI%20Systems&descAlignY=55&descSize=18&descColor=7aa2f7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Manoj%20Mulammagari&fontSize=55&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20RAG%20and%20GenAI%20Systems&descAlignY=55&descSize=18&descColor=7aa2f7" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Training+models+that+actually+see.;Building+agents+that+actually+reason.;Shipping+AI+that+survives+production.;Turning+research+papers+into+working+code." alt="Typing SVG" />
