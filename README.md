@@ -1,198 +1,54 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Manoj%20Mulammagari&fontSize=55&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%7C%20AI%20Engineer%20%7C%20RAG%20and%20GenAI%20Systems&descAlignY=55&descSize=18&descColor=7aa2f7" width="100%"/>
+# 🚀 Manoj Kumar Reddy Mulammagari
+**AI/ML Engineer | Data Scientist | B.Tech CSE (AI Specialization)**
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Training+models+that+actually+see.;Building+agents+that+actually+reason.;Shipping+AI+that+survives+production.;Turning+research+papers+into+working+code." alt="Typing SVG" />
-</a>
+I am a final-year CS student (graduating May 2027) focused on building production-grade Machine Learning pipelines, Multi-Agent systems, and Retrieval-Augmented Generation (RAG) architectures. I transition raw data into deployable AI applications.
 
-🎓 **Final Year B.Tech CSE** @ Audisankara College of Engineering and Technology
-
-<img src="https://komarev.com/ghpvc/?username=manojmulammagari&label=PROFILE%20VIEWS&color=7aa2f7&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/badge/OPEN%20TO-ML%20%7C%20AI%20%7C%20RAG%20ENGINEER%20ROLES-9ece6a?style=for-the-badge&logo=target&logoColor=white" alt="open to work"/>
-<br/>
-<a href="https://www.linkedin.com/in/manojmulammagari/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:manojmulammagari@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-f7768e?style=flat-square&logo=gmail&logoColor=white"/></a>
-</div>
-<br/>
-
-## 🧠 About Me
-
-I spend my days at the intersection of **research and production** — training computer vision models that need to work in the real world (not just on a clean Kaggle dataset), and architecting **agentic AI / RAG pipelines** that reason, retrieve, and respond like they mean it. 
-
-From detecting safety violations on live construction feeds with **YOLOv8**, to building multi-agent systems that autonomously scan for vulnerabilities — I don't just train models, I **ship systems people can actually use.**
-
-🔭 **Currently diving into:** Advanced RAG architectures · Multi-agent orchestration · Fine-tuning open-source LLMs
-
-```json
-{
-  "name": "Manoj Mulammagari",
-  "role": "AI/ML Engineer · Computer Vision · GenAI & RAG",
-  "status": "Final Year CS Student — shipping production-grade ML",
-  "focus_stack": ["PyTorch", "YOLOv8", "LangChain", "FastAPI"],
-  "fun_fact": "I debug neural nets faster than I debug my sleep schedule",
-  "open_to": ["ML Engineer", "AI Engineer", "RAG Engineer", "AIML Engineer"]
-}
-```
+📫 **Reach me:** [manojmulammagari@gmail.com](mailto:manojmulammagari@gmail.com) | [LinkedIn](https://linkedin.com/in/manojmulammagari) | [LeetCode](https://leetcode.com/u/manojmulammagari)
 
 ---
 
-## 🛠️ The Arsenal
-
-<div align="center">
-
-**Core Languages**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-
-**AI / Machine Learning**
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-
-**GenAI & RAG**
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" alt="FAISS"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" alt="Pinecone"/>
-
-**Tools & Cloud**
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
-</div>
+### 💻 Technical Arsenal
+*   **AI & Deep Learning:** PyTorch, Transformer Architectures, LLMs (Gemini, Claude, Groq), CNNs, Neural Networks
+*   **Generative AI & NLP:** RAG, LangChain, FAISS, ChromaDB, Hugging Face (all-MiniLM-L6-v2), Prompt Engineering
+*   **Machine Learning (Tabular/DS):** Scikit-Learn, XGBoost, Support Vector Machines (SVM), Feature Engineering, EDA
+*   **Languages & Frameworks:** Python, Pandas, NumPy, FastAPI, Next.js, Streamlit
+*   **Tools & Deployment:** Git, Docker (learning), Streamlit Cloud, Google Colab, VS Code
 
 ---
 
-## 🧭 Experience & Certifications
-
-**🔭 Deep Learning Intern — Uptoskills**
-
-> Engineered a real-time construction site safety monitoring system using YOLOv8 and PyTorch, detecting PPE violations and hazard zones from live video feeds to reduce on-site risk before it becomes an incident.
-
-**📜 AWS Certified — Foundations of Prompt Engineering**
-
-> Built a rigorous foundation in prompt architecture, LLM behavior tuning, and responsible GenAI system design.
-
-**📊 Kaggle Certified — Pandas**
-
-> Mastered the data wrangling, cleaning, and transformation workflows that every production ML pipeline quietly depends on.
+### 💼 Professional Experience
+*   **AI Intern | InternNova** *(Oct 2026 – Nov 2026)*
+    *   Engineered Python data preprocessing pipelines, automating raw dataset cleaning and extracting novel features for downstream model training.
+*   **Data Science Intern | IISPPR** *(Aug 2026 – Nov 2026)*
+    *   Executed exploratory data analysis (EDA) and trained supervised machine learning models on real-world socio-economic datasets using Pandas, NumPy, and Scikit-Learn.
+*   **AI & ML Intern | APSCHE & SmartBridge** *(May 2026 – Jul 2026)*
+    *   Built end-to-end supervised and unsupervised machine learning pipelines, applying feature scaling, encoding, and hyperparameter tuning to optimize classification metrics.
 
 ---
 
-## 🏗️ Featured Builds
+### 🏗️ Featured Engineering Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+#### 🔍 [Enterprise Two-Stage Hybrid RAG Engine](https://github.com/manojmulammagari)
+Architected an advanced RAG microservice utilizing dense vector embeddings (ChromaDB) and sparse lexical indexing (BM25), fused via Reciprocal Rank Fusion (RRF). Engineered a secondary cross-encoder reranking layer (MS-MARCO) with LLM-as-a-Judge automated evaluation for strict citation compliance.
 
-### 🔍 Argus
+#### 🛡️ [Argus: Multi-Agent Security Scanner](https://github.com/manojmulammagari)
+Developed an autonomous multi-agent system orchestrating FastAPI, Groq, and Gemini LLMs. Argus independently scans, analyzes, and reports backend vulnerabilities directly through the GitHub API.
 
-AI security scanner powered by orchestrated agents. A multi-agent system that autonomously scans, analyzes, and reports security vulnerabilities — no human babysitting required.
+#### 🌱 [PaddyPulse: Agricultural Data Pipeline](https://github.com/manojmulammagari)
+Engineered an agricultural water management analysis script processing sensitive E3-c parameters to recompute water conservation claims and drive automated data ledger validation.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Multi--Agent%20AI-bb9af7?style=flat-square" alt="Multi-Agent AI"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-
-<a href="https://github.com/manojmulammagari/Argus">🔗 View Repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📰 Telugu News Classifier
-
-NLP that reads Telugu better than most humans skim headlines. A deep learning pipeline that classifies Telugu-language news articles into categories, deployed live and fully interactive.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/NLP-e0af68?style=flat-square" alt="NLP"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-
-<a href="https://github.com/manojmulammagari/telugu-news-classifier">🔗 Repository</a> · <a href="https://telugu-news-classifier.streamlit.app/">🚀 Live Demo</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📉 Customer Churn Prediction
-
-An end-to-end ML pipeline that predicts who's about to leave — before they do. Feature engineering, model tuning, and a live dashboard, built to turn raw churn data into retention action.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square" alt="XGBoost"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-
-<a href="https://github.com/manojmulammagari/customer-churn-prediction">🔗 Repository</a> · <a href="https://customer-churn-prediction-mm.streamlit.app/">🚀 Live Demo</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🚧 Next Build — Cooking...
-
-Something new is always brewing in a notebook somewhere.
-
-<img src="https://img.shields.io/badge/Status-In%20Progress-e0af68?style=flat-square" alt="In Progress"/>
-<img src="https://img.shields.io/badge/???-bb9af7?style=flat-square" alt="???"/>
-
-</td>
-</tr>
-</table>
+#### 🎨 [3DForge: Generative AI Frontend](https://github.com/alwaysalearner1234/3DForgeAI)
+Built the frontend architecture for an AI-powered 3D asset generation platform utilizing Next.js 14, Three.js, and Tailwind CSS.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manojmulammagari/manojmulammagari/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manojmulammagari/manojmulammagari/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/manojmulammagari/manojmulammagari/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=manojmulammagari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojmulammagari&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=manojmulammagari&theme=tokyonight&hide_border=true&background=1a1b27&stroke=414868&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=7aa2f7&currStreakNum=c0caf5&sideNums=c0caf5&dates=414868" alt="GitHub Streak" width="520"/>
-
-<br/><br/>
-
-<img src="https://github-trophies.vercel.app/?username=manojmulammagari&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
-
-</div>
+### 🏆 Certifications & Hackathons
+*   **NPTEL Elite Certification:** Fundamentals of Generative AI and Large Language Models (71%)
+*   **Coursera (DeepLearning.AI & Stanford):** Machine Learning Specialization
+*   **Kaggle:** Pandas Data Manipulation Certification
+*   **Hackathons:** Google Gemini 'Fund My Crazy' Hackathon (Project Pulse) | UGREEN Hackathon (Round 1) | LexHack 2026 (CounterNotice)
 
 ---
-
-<div align="center">
-
-## 🤝 Let's Build Something Intelligent
-
-**Open to Machine Learning, AI, RAG, and AIML Engineer roles.**
-
-If you're hiring — or just want to talk about agents, embeddings, or why XGBoost still beats your fancy transformer on tabular data — my inbox is open.
-
-<a href="https://www.linkedin.com/in/manojmulammagari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:manojmulammagari@gmail.com"><img src="https://img.shields.io/badge/Gmail-f7768e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br/>
-
-⭐️ Thanks for scrolling this far. That means you actually read it — I respect that.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=120&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manojmulammagari&show_icons=true&theme=radical" alt="Manoj's GitHub Stats" />
+</p>
